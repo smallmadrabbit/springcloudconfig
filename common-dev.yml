@@ -1,0 +1,8 @@
+spring:
+  redis:
+    password: 612101
+    port: 6379
+    host: 127.0.0.1
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
